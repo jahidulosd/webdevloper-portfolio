@@ -118,4 +118,9 @@ gap: 24px;
 .skill-description{
 color: #757575;
 }
-
+/* resume section title */
+.resume-colam-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
