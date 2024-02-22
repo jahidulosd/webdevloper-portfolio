@@ -148,7 +148,27 @@ gap: 50px;
 /* footer section */
 footer{
     display: flex;
+    gap: 100px;
     background-color: #fff8f3;
     margin-top: 100px;
     padding: 130px 200px;
 }
+.footer-colom {
+    width: 50%;
+}
+
+.contact , input[type="tex"],input[type="email"],textarea {
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #fff;
+    border: 0;
+    width: 100%;
+}
+.social-link a{
+    margin-right: 25px;
+}
+ 
+
